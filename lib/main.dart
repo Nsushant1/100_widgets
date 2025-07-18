@@ -13,6 +13,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(primarySwatch: Colors.blue),
+
+      //! You can change the home widget to any widget you want to test jut by changing the Widget01 to the desired widget class.
       home: const Widget01(),
     );
   }
