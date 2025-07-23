@@ -16,7 +16,6 @@ class Widget19 extends StatelessWidget {
           Text("i make apps from flutter "),
         ],
       ),
-      
     );
   }
 }
